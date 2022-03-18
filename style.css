@@ -1,0 +1,53 @@
+.banner {
+  background: url("image/bg.jpg")
+    no-repeat center center;
+  background-size:100%;
+  padding-top: 18%;
+  padding-bottom: 18%;
+  color: rgb(0, 0, 0);
+  text-align: top;
+}
+
+.crop-img {
+  object-fit: cover;
+}
+
+.kontak {
+  background: url("image/bg.jpg") no-repeat
+    center center;
+  background-size: cover;
+  padding-bottom: 20%;
+  padding-top: 20%;
+  color: black;
+  font-family: Comic Sans MS;
+}
+
+*{
+  padding: 0;
+  margin: 0;
+}
+
+body{
+  background-color: #f7bf9b;
+}
+
+.about{
+  margin: 30px;
+  padding: 5px;
+}
+
+.about-1 h4{
+  text-align:center;
+  color:black;
+  font-family: Comic Sans MS;
+}
+
+.about-1 p{
+  text-align: center;
+  padding: 3px;
+  color:#fff;
+}
+
+footer{
+  padding: 20%;
+}
